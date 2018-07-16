@@ -7,23 +7,36 @@ table#tlayout {
 }
 
 body {
-	background: #F8FFF0;
-	font-family: Georgia, serif;
+	background: #ffffee;
+	/*font-family: 'Ubuntu', sans-serif;*/
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.25em;
 	padding-bottom: 8px;
 	margin: 0;
+    -webkit-animation-delay: 0.1s;
+    -webkit-animation-name: fontfix;
+    -webkit-animation-duration: 0.1s;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: linear;
+}
+
+@-webkit-keyframes fontfix {
+    from { opacity: 1; }
+    to   { opacity: 1; }
 }
 
 #layout-menu {
-	background: #f6f6f6;
+	background: #f6f6fe;
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
-	font-size: 1.0em;
+	font-size: 1.05em;
 	width: auto;
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
+    line-height: 175%
 }
 
 #layout-menu td {
@@ -36,18 +49,18 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
-    background: #F8FFF0;
+    background: #ffffee;
     text-align: left;
     vertical-align: top;
 }
 
 #layout-menu a {
-	line-height: 1.5em;
+	line-height: 1.0em;
 	margin-left: 0.5em;
 }
 
 tt {
-    background: #ffffdd;
+    background: #ffff99;
 }
 
 pre, tt {
@@ -56,7 +69,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #339933;
+	color: #224b8d;
 	text-decoration: none;
 }
 
@@ -65,11 +78,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #006600;
+	color: #022b6d;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #009933	;
+	color: #527bbd;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -77,16 +90,31 @@ a:hover {
 }
 
 div.menu-category {
-	border-bottom: 1px solid gray;
-	margin-top: 0.8em;
-	padding-top: 0.2em;
-	padding-bottom: 0.1em;
-	font-weight: bold;
+	border-bottom: 1.0px solid #001;
+	margin-top: 0.0em;
+	padding-top: 0.0em;
+	margin-left: 0.20em;
+	margin-bottom: 0.3em;
+	font-size: 95%;
+	text-shadow: 1px 1px 1px #aaa;
+}
+
+div.menu-head {
+	border-bottom: 1.0px solid #001;
+	margin-top: 0.0em;
+	padding-top: 0.0em;
+	padding-bottom: 0.0em;
+	margin-bottom: 0.0em;
+	font-family: 'Dawning of a New Day', cursive;
+	font-size: 135%;
+	text-shadow: 1px 1px 0px #aaa;
 }
 
 div.menu-item {
 	padding-left: 16px;
 	text-indent: -16px;
+	font-size: 80%;
+	font-weight: bold;
 }
 
 div#toptitle {
@@ -117,7 +145,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #005200;
+	color: #527bbd;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -250,7 +278,7 @@ div.blockcontent {
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffee;
+	background: #ffffff;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
