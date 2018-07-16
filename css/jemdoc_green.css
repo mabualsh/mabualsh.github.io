@@ -60,7 +60,7 @@ body {
 }
 
 tt {
-    background: #ffff99;
+    background: #ffffcc;
 }
 
 pre, tt {
@@ -278,7 +278,7 @@ div.blockcontent {
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffff;
+	background: #ffffcc;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
