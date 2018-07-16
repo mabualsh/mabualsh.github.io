@@ -1,34 +1,36 @@
-# jemdoc: menu{MENU}{index.html}
 = Mohammad Abu Alsheikh
 
 ~~~
 {}{img_left}{images/abualsheikh.jpg}{Mohammad Abu Alsheikh}{320px}
-Postdoctoral Associate
-\nCSAIL, MIT
-\n32-268, 77 Mass Ave, Cambridge, MA 02139
-\nEmail: *mabualsh*\[at\]*mit*\[dot\]*edu*
+Assistant Professor
+\nUniversity of Canberra, University Dr, Bruce, ACT, Australia 2617
+\n+I acknowledge and pay respect to the Ngunnawal people who are the traditional custodians of the land where I live and work+
 \n\n
-- [https://scholar.google.com/citations?user=HVbo8agAAAAJ&hl=en Google Scholar]
-- [https://www.researchgate.net/profile/Mohammad_Abu_Alsheikh ResearchGate]
-- [http://front.math.ucdavis.edu/author/M.Alsheikh Preprints]
-- [https://www.linkedin.com/in/mabualsh LinkedIn]
+- Office: Building 6, Room C42
+- Email: *mabualsh*\[at\]*ieee*\[dot\]*org*
+- [https://scholar.google.com/citations?user=HVbo8agAAAAJ&hl=en Google Scholar] | [https://www.researchgate.net/profile/Mohammad_Abu_Alsheikh ResearchGate] | [http://front.math.ucdavis.edu/author/M.Alsheikh Preprints] | [https://www.linkedin.com/in/mabualsh LinkedIn]
+
 
 
 ~~~
 
-I am a postdoctoral associate at MIT [https://www.csail.mit.edu/ Computer Science and Artificial Intelligence Laboratory] working with [https://people.csail.mit.edu/dina Dina Katabi]. My current research interests include machine learning in health sensing, people-centric sensing, and human activity recognition.
+I am an assistant professor at the Faculty of Science \& Technology. I design and create novel IoT systems that leverage both machine learning and convex optimization with applications in people-centric sensing, human activity recognition, and smart cities. 
 
-I received my Ph.D. from [http://www.ntu.edu.sg Nanyang Technological University], Singapore in April 2017. My Ph.D. advisors were [https://www.ntu.edu.sg/home/dniyato/ Dusit Niyato], [https://dleong.github.io Derek Leong], [http://mysmu.edu.sg/faculty/hptan/ Hwee-Pink Tan], and [http://people.sutd.edu.sg/~shaowei_lin/ Shaowei Lin]. I received my B.Eng. degree in computer systems engineering from [https://www.birzeit.edu/en Birzeit University], Palestine in 2011. I was a visiting researcher at [https://www.tcd.ie/ Trinity College Dublin], Ireland in the summer of 2015. Between 2010 and 2012, I was a software engineer working on developing robust web services, Ajax-based web components, and smartphone applications.
+Previously, I was a postdoctoral researcher at Massachusetts Institute of Technology, USA. My doctoral research at Nanyang Technological University, Singapore was focused on optimizing the data collection in wireless sensor networks. After graduating with a B.Eng. degree in computer systems from Birzeit University, Palestine, I worked as a software engineer at a digital advertising startup and Cisco.
+
 
 == Selected Publications
 The following three papers provide a good overview of my research:
 ~~~
 - *M. Abu Alsheikh*, D. Niyato, D. Leong, P. Wang, and Z. Han, "Privacy management and optimal pricing in people-centric sensing," in IEEE Journal on Selected Areas in Communications, 2017 \[[http://ieeexplore.ieee.org/abstract/document/7879223/ IEEE Xplore]\]\[[https://arxiv.org/pdf/1703.00807.pdf arXiv]\]
-- *M. Abu Alsheikh*, D. Niyato, S. Lin, H. P. Tan, and D. I. Kim, "Fast adaptation of activity sensing policies in mobile devices," in IEEE Transactions on Vehicular Technology, 2016 \[[http://ieeexplore.ieee.org/abstract/document/7744681/ IEEE Xplore]\]\[[https://arxiv.org/pdf/1611.03202.pdf arXiv]\]
+- *M. Abu Alsheikh*, D. Niyato, S. Lin, H. P. Tan, and D. I. Kim, "Fast adaptation of activity sensing policies in mobile devices," in IEEE Transactions on Vehicular Technology, 2017 \[[http://ieeexplore.ieee.org/abstract/document/7744681/ IEEE Xplore]\]\[[https://arxiv.org/pdf/1611.03202.pdf arXiv]\]
 - *M. Abu Alsheikh*, D. Niyato, S. Lin, H. P. Tan, and Z. Han, "Mobile big data analytics using deep learning and Apache Spark," in IEEE Network, 2016 \[[http://ieeexplore.ieee.org/abstract/document/7474340/ IEEE Xplore]\]\[[https://arxiv.org/pdf/1602.07031.pdf arXiv]\]
 ~~~
 
-The full list can be found [publications.html HERE]
+The full list can be found on [https://scholar.google.com/citations?user=HVbo8agAAAAJ&hl=en Google Scholar]
+
+== Teaching:
+- Computer and Network Security (Semester 2, 2018) \[[http://www.canberra.edu.au/coursesandunits/unit?unit_cd=6697&version_number=6&rownum=19901 Unit Outline]\]
 
 == Professional Activities:
 I regularly review (mainly machine learning-related papers) for a number of international journals including IEEE Transactions on Vehicular Technology, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Journal on Selected Areas in Communications, IEEE Transactions on Instrumentation and Measurement, IEEE Transactions on Mobile Computing, IEEE Network Magazine, IEEE Wireless Communications Magazine, and Elsevier Computer Networks.\n
