@@ -1,47 +1,60 @@
+# jemdoc: menu{MENU}{index.html}
 = Mohammad Abu Alsheikh
 
-
-
 ~~~
-*One PhD scholarship is available in machine learning and IoT for domestic students (Australian permanent residents or citizens). If you have strong programming skills and previous experience in machine learning or computer networks, please send me your resume at* *mabualsh*\[at\]*ieee*\[dot\]*org*
-~~~
-
-~~~
-{}{img_left}{images/abualsheikh.jpg}{Mohammad Abu Alsheikh}{320px}
-Associate Professor
+{}{img_left}{images/abualsheikh.jpg}{Mohammad Abu Alsheikh}{280px}
+Associate Professor of Engineering and Data Privacy
+\nIEEE Senior Member
+\nARC DECRA Fellow
 \nUniversity of Canberra, University Dr, Bruce, ACT, Australia 2617
 \n+I acknowledge the [https://www.act.gov.au/ngunnawal-country Ngunnawal people] who are the traditional custodians of the land at which I live and work+
 \n\n
 - Office: Building 6, Room C42 (phone: 6201 2156)
 - Email: *mabualsh*\[at\]*ieee*\[dot\]*org*
-- [https://scholar.google.com/citations?user=HVbo8agAAAAJ&hl=en Google Scholar] | [http://www.scopus.com/authid/detail.url?authorId=56405463000  Scopus] | [https://arxiv.org/search/cs?searchtype=author&query=Alsheikh%2C+M+A Preprints] | [https://www.linkedin.com/in/mabualsh LinkedIn] | [https://github.com/mabualsh GitHub]
 
-
+[https://scholar.google.com/citations?user=HVbo8agAAAAJ&hl=en {{<i class="fa-brands fa-google fa-2xl"></i>}} Google Scholar] | [http://www.scopus.com/authid/detail.url?authorId=56405463000 {{<i class="fa-solid fa-keyboard fa-2xl"></i>}} Scopus] | [https://arxiv.org/search/cs?searchtype=author&query=Alsheikh%2C+M+A {{<i class="fa-solid fa-print fa-2xl"></i>}} Preprints] | 
+[https://www.linkedin.com/in/mabualsh {{<i class="fa-brands fa-linkedin fa-2xl"></i>}} LinkedIn] | 
+[https://github.com/mabualsh {{<i class="fa-brands fa-github fa-2xl"></i>}} GitHub]
 
 ~~~
 
-I'm an Associate Professor and ARC DECRA Fellow at the Faculty of Science \& Technology, University of Canberra. I design and create novel IoT systems that leverage both machine learning and convex optimization with applications in people-centric sensing, human activity recognition, and smart cities. 
+== {{<i class="fas fa-user fa-lg"></i>}} Bio
+I am an Associate Professor and ARC DECRA Fellow at the *University of Canberra*, Australia. Before that, he was a Postdoctoral Researcher at the *Massachusetts Institute of Technology (MIT)*, USA. I received a Ph.D. degree from *Nanyang Technological University (NTU)*, Singapore, and a B.Eng. degree in computer systems from *Birzeit University (BZU)*, Palestine.
 
-Previously, I was a Postdoctoral Researcher at Massachusetts Institute of Technology, USA. My doctoral research at Nanyang Technological University, Singapore was focused on optimizing the data collection in wireless sensor networks. After graduating with a B.Eng. degree in computer systems from Birzeit University, Palestine, I worked as a Software Engineer at a digital advertising startup and Cisco.
+== {{<i class="fas fa-square-root-alt fa-lg"></i>}} Research
+I am currently interested in privacy-preserving sensing technologies that comply with data privacy regulations. I design and create novel IoT systems that leverage machine learning and convex optimization with applications in people-centric sensing, human activity recognition, and smart cities.
 
-== Recent News
-- I have received the ARC DECRA Fellowship (acceptance rate 16%, funding awarded $405,398, [https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200100863 project summary] | [https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/206 round statistics])
-- RF-Pose3D has been accepted at ACM SIGCOMM (acceptance rate 18%)
+== {{<i class="fas fa-rss fa-lg"></i>}} Recent News
+- I received the *2021 Mentorship Excellence Award* from the Faculty of Science and Technology. I thank my students and mentees for their nominations.
+
+- I received the *2020 Early Career Researcher Excellence Award* (provided by the University of Canberra's Deputy Vice-Chancellor, Research and Innovation).
+
+- Our recent research work on the *digital privacy divide* is featured on the front page of  [https://techxplore.com/news/2022-02-online-privacy-inequality.html TechXplore].
+
+- I have been elevated to an *IEEE Senior Member*.
+
+- I have received the *ARC DECRA Fellowship* (acceptance rate 16\%, funding awarded $405,398, [https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200100863 project summary] | [https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/206 round statistics])
+
+- RF-Pose3D has been accepted at ACM SIGCOMM (acceptance rate 18\%)
+
 - One paper has been accepted at IEEE CVPR ([http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf paper] | [https://www.youtube.com/watch?v=HgDdaMy8KNE video] | [http://news.mit.edu/2018/artificial-intelligence-senses-people-through-walls-0612 MIT News])
-- I'm Invited to serve as a TPC member of IEEE Milcom 2018 and IEEE VTC 2018 
 
-== Selected Publications [publications.html *]
+
+== {{<i class="fas fa-book fa-lg"></i>}} Selected Publications [publications.html *]
 The following three papers provide a good overview of my research:
 ~~~
-- *M. Abu Alsheikh*, D. Niyato, D. Leong, P. Wang, and Z. Han, "Privacy management and optimal pricing in people-centric sensing," in IEEE Journal on Selected Areas in Communications (impact factor 8.09), 2017 ([http://ieeexplore.ieee.org/abstract/document/7879223/ IEEE Xplore] | [https://arxiv.org/pdf/1703.00807.pdf arXiv])
-- *M. Abu Alsheikh*, D. Niyato, S. Lin, H. P. Tan, and D. I. Kim, "Fast adaptation of activity sensing policies in mobile devices," in IEEE Transactions on Vehicular Technology (impact factor 4.07), 2017 ([http://ieeexplore.ieee.org/abstract/document/7744681/ IEEE Xplore] | [https://arxiv.org/pdf/1611.03202.pdf arXiv])
-- *M. Abu Alsheikh*, D. Niyato, S. Lin, H. P. Tan, and Z. Han, "Mobile big data analytics using deep learning and Apache Spark," in IEEE Network (impact factor 7.23), 2016 ([http://ieeexplore.ieee.org/abstract/document/7474340/ IEEE Xplore] | [https://arxiv.org/pdf/1602.07031.pdf arXiv])
+- H. Alhazmi, A. Imran and *M. Abu Alsheikh* "How do socio-demographic patterns define digital privacy divide?," in IEEE Access, vol. 10, pp. 11296-11307, January 2022 \[[https://doi.org/10.1109/ACCESS.2022.3144436 IEEE Xplore]\]\[[https://arxiv.org/pdf/2201.07936.pdf arXiv]\]\[[papers/socio_demographic_privacy.pdf paper]\]
+
+- *M. Abu Alsheikh*, D. T. Hoang, D. Niyato, D. Leong, P. Wang and Z. Han "Optimal pricing of Internet of Things: A machine learning approach," in IEEE Journal on Selected Areas in Communications, vol. 38, no. 4, pp. 669-684, April 2020 \[[https://doi.org/10.1109/JSAC.2020.2971898 IEEE Xplore]\]\[[https://arxiv.org/pdf/2002.05929.pdf arXiv]\]\[[papers/iot_pricing_2020.pdf paper]\]
+
+- *M. Abu Alsheikh*, D. Niyato, D. Leong, P. Wang, and Z. Han, "Privacy management and optimal pricing in people-centric sensing," in IEEE Journal on Selected Areas in Communications, vol. 35, no. 4, pp. 906-920, April 2017 \[[https://doi.org/10.1109/JSAC.2017.2680845 IEEE Xplore]\]\[[https://arxiv.org/pdf/1703.00807.pdf arXiv]\]\[[papers/privacy_pricing.pdf paper]\]
 ~~~
 
 The full list can be found on [https://scholar.google.com/citations?user=HVbo8agAAAAJ&hl=en Google Scholar].
 
-== Teaching
-- Computer and Network Security (Semester 2, 2018) ([http://www.canberra.edu.au/coursesandunits/unit?unit_cd=6697&version_number=6&rownum=19901 unit outline])
+== {{<i class="fas fa-university fa-lg"></i>}} Teaching
+- Network Architecture ([https://www.canberra.edu.au/unit/11484/1/2022 unit outline])
+- High Speed Networks ([https://www.canberra.edu.au/unit/9783/3/2022 unit outline])
+- Computer and Network Security ([https://www.canberra.edu.au/unit/8019/5/2022 unit outline])
 
-== Professional Activities
-I regularly review (mainly machine learning-related papers) for a number of international journals including IEEE Journal on Selected Areas in Communications, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, IEEE Transactions on Instrumentation and Measurement, IEEE Transactions on Mobile Computing, IEEE Network Magazine, IEEE Wireless Communications Magazine, and Elsevier Computer Networks.\n
+

@@ -1,7 +1,7 @@
 ABOUT ME
-	Home		[index.html]
+	{{<i class="fas fa-home"></i>}} Home		[index.html]
 	
 RESEARCH
-	Research	[research.html]
-	Publications	[publications.html]
+	{{<i class="fas fa-square-root-alt"></i>}} Research	[research.html]
+	{{<i class="fas fa-book"></i>}} Publications	[publications.html]
 
