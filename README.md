@@ -1,16 +1,21 @@
-# website
+# My website
 
-This is my website
+This is my personal website.
 
-## Install jemdoc
+
+### Install jemdoc
 ```
 sudo cp jemdoc.py /usr/bin/jemdoc
 ```
 
-## build the website
+### build the website
 
 ```
 make
 ```
 
+### on Windows
+```
+python jemdoc.py -c mysite.conf -o publications.html publications
+```
 
