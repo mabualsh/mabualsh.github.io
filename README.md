@@ -16,6 +16,10 @@ make
 
 ### on Windows
 ```
+python jemdoc.py -c mysite.conf -o index.html index
+```
+
+```
 python jemdoc.py -c mysite.conf -o publications.html publications
 ```
 
